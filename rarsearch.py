@@ -32,7 +32,7 @@ servers = [
 ]
 
 # Caminho onde procurar os arquivos .rar
-search_path = '/var/www/html'  # Altere este diretório conforme necessário
+search_path = '/var/www/html' 
 
 # Verificar a existência de arquivos .rar em todos os servidores
 rar_files_existence = {}
